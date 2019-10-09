@@ -23,3 +23,6 @@ This is an updated dark mode for Ferzu which I've dubbed Nightshade
 - Notifications drop-down menu is still a gaudy shade of white
 - Certain GUI objects change to orange or other colors when hovering over them, at the moment I am unaware of how to fix this.
 - Can't change link colors
+
+V1.0.1
+- Fixed an oversight where large white block would appear in global newsfeed
